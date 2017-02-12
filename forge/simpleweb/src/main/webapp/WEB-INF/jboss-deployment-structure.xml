@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><jboss-deployment-structure><deployment><module name="org.javassist"/><module name="org.apache.velocity"/></deployment></jboss-deployment-structure>
